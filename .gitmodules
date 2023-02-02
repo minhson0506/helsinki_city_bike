@@ -1,0 +1,6 @@
+[submodule "helsinki_city_bike_backend"]
+	path = helsinki_city_bike_backend
+	url = git@github.com:minhson0506/helsinki_city_bike_backend.git
+[submodule "helsinki_city_bike_frontend"]
+	path = helsinki_city_bike_frontend
+	url = git@github.com:minhson0506/helsinki_city_bike_frontend.git
